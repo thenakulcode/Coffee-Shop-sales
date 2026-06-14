@@ -18,12 +18,6 @@ The objective of this project is to analyze retail sales data and uncover patter
 
 ---
 
-## 📊 Dashboard Preview
-
-<img width="100%" alt="Coffee Shop Sales Dashboard" src="dashboard.png">
-
----
-
 ## 📊 Key Business Questions Solved
 
 * How do sales vary by day of the week and hour of the day?
